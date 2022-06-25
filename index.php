@@ -17,11 +17,11 @@ $this->need('public/header.php');
 
         <section>
             <div class="tin-user-logo">
-                <img src="<?php $this->options->userLogo() ?>" alt="用户头像">
+                <img src="<?php $this->options->userLogo(https://Omoitsuku.github.io/imgs/maozi.png) ?>" alt="用户头像">
             </div>
             <div class="tin-user-autograph">
                
-                <p><?php $this->options->userYiyan() ?></p>
+                <p><?php $this->options->userYiyan(https://Omoitsuku.github.io/imgs/maozi.png) ?></p>
             </div>
 
         </section>
